@@ -7,7 +7,6 @@
 ![MixHunter for crack hack hunting private key ethereum litecoin dash dogecoin](https://raw.githubusercontent.com/Pymmdrza/MixHunter/mainx/media/MixHunter_PostCover.jpg 'MixHunter for crack hack hunting private key ethereum litecoin dash dogecoin')
 
 ---
-
 I had decided not to publish this software for a long time because I still don’t know whether the people who benefit from it are more than the people who may be harmed. For this reason, a little delay in making an important decision is a normal thing. But with the welcome and encouragement of my users and friends, I decided to finally publicize this unique software that through this software I achieved all my dreams and financial desires in my world and now that I see I have a lot of wealth, but unfortunately those I don’t have what I should have. Let’s go ahead and introduce this silent money making machine that you have never seen before and you won’t see again because the complicated tricks and methods of four different programming languages have been used in it and there are few people who spend so much time and patience like us. put on this software. But I had a goal and I reached my goal and I received an answer. Now the result of these efforts is summarized in this software. After reading this text, you may buy this software and your tomorrow will be completely different from your yesterdays. You can think briefly and skip it.
 
 MixHunter includes three high-speed, unique and error-free methods for breaking the lock and generating hex, which gives you coins in four types of cryptocurrency, such as: Ethereum, Litecoin, Dash, Dogecoin, which directly and without decoding the received hex with a series of tricks. Advanced has managed to increase the success rate of finding the private key by 70%, and as I sent you in the video related to this software, at the end of this article, you can see how in less than ten minutes, I was able to make about 20,000 $. Discover valuable wallets.
@@ -63,7 +62,12 @@ An important point to mention when a key is found or the address is matched, the
 
 ---
 
+
 ### Video (Screen Record):
+
+
+[Video : Screen Record From MixHunter With 20,000$ Profit](https://github.com/Pymmdrza/MixHunter/releases/download/ScreenRecordVideo/MixHunter_MediumQuality.mp4)
+
 
 For View Video and How to work with MixHunter Can Follow This Link : [[VIDEO]](https://videopress.com/v/tzUYTUUr)
 
